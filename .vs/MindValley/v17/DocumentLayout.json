@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zouari\\source\\repos\\MindValley\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|c:\\users\\zouari\\source\\repos\\mindvalley\\mindvalley\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|solutionrelative:mindvalley\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|c:\\users\\zouari\\source\\repos\\mindvalley\\mindvalley\\controllers\\moodlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|solutionrelative:mindvalley\\controllers\\moodlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|c:\\users\\zouari\\source\\repos\\mindvalley\\mindvalley\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|solutionrelative:mindvalley\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|c:\\users\\zouari\\source\\repos\\mindvalley\\mindvalley\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|solutionrelative:mindvalley\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|c:\\users\\zouari\\source\\repos\\mindvalley\\mindvalley\\models\\mindvalleycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFC6B874-6362-4F1C-A01E-2CB867105203}|MindValley\\MindValley.csproj|solutionrelative:mindvalley\\models\\mindvalleycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Program.cs",
+              "RelativeDocumentMoniker": "MindValley\\Program.cs",
+              "ToolTip": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Program.cs",
+              "RelativeToolTip": "MindValley\\Program.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T09:03:28.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoodLogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Controllers\\MoodLogsController.cs",
+              "RelativeDocumentMoniker": "MindValley\\Controllers\\MoodLogsController.cs",
+              "ToolTip": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Controllers\\MoodLogsController.cs",
+              "RelativeToolTip": "MindValley\\Controllers\\MoodLogsController.cs",
+              "ViewState": "AQIAAHcAAAAgZmZmZmYVwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:54:46.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MindValleyContext.cs",
+              "DocumentMoniker": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Models\\MindValleyContext.cs",
+              "RelativeDocumentMoniker": "MindValley\\Models\\MindValleyContext.cs",
+              "ToolTip": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Models\\MindValleyContext.cs",
+              "RelativeToolTip": "MindValley\\Models\\MindValleyContext.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAcwGEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:24:29.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "MindValley\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Models\\Appointment.cs",
+              "RelativeToolTip": "MindValley\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T21:09:47.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "MindValley\\Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\Zouari\\source\\repos\\MindValley\\MindValley\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "MindValley\\Controllers\\AppointmentsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAQwCsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:38:02.778Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

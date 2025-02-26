@@ -1,0 +1,6 @@
+@MindValley_HostAddress = http://localhost:5213
+
+GET {{MindValley_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
